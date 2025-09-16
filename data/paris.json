@@ -1,0 +1,68 @@
+[
+  {
+    "cidade": "Paris",
+    "categoria": "ponto_turistico",
+    "nome": "Torre Eiffel",
+    "descricao": "Monumento símbolo de Paris, com vista panorâmica da cidade.",
+    "horario": "09:00 - 23:45",
+    "preco": "€ 25"
+  },
+  {
+    "cidade": "Paris",
+    "categoria": "ponto_turistico",
+    "nome": "Museu do Louvre",
+    "descricao": "Um dos maiores museus do mundo, lar da Mona Lisa e de inúmeras obras-primas.",
+    "horario": "09:00 - 18:00 (fechado às terças)",
+    "preco": "€ 17"
+  },
+  {
+    "cidade": "Paris",
+    "categoria": "ponto_turistico",
+    "nome": "Catedral de Notre-Dame",
+    "descricao": "Catedral gótica famosa pela arquitetura e vitrais, localizada na Île de la Cité.",
+    "horario": "08:00 - 18:45",
+    "preco": "Gratuito"
+  },
+  {
+    "cidade": "Paris",
+    "categoria": "restaurante",
+    "nome": "Le Jules Verne",
+    "descricao": "Restaurante francês sofisticado localizado no segundo andar da Torre Eiffel.",
+    "horario": "12:00 - 22:30",
+    "preco_medio": "€ 150 por pessoa"
+  },
+  {
+    "cidade": "Paris",
+    "categoria": "restaurante",
+    "nome": "L'As du Fallafel",
+    "descricao": "Restaurante popular no bairro Le Marais, famoso pelo sanduíche de falafel.",
+    "horario": "11:00 - 23:00",
+    "preco_medio": "€ 12 por pessoa"
+  },
+  {
+    "cidade": "Paris",
+    "categoria": "evento",
+    "nome": "Fête de la Musique",
+    "descricao": "Festival de música que acontece em junho com shows gratuitos em toda a cidade.",
+    "data": "21 de Junho"
+  },
+  {
+    "cidade": "Paris",
+    "categoria": "evento",
+    "nome": "Semana da Moda de Paris",
+    "descricao": "Evento de moda internacional que reúne estilistas, modelos e celebridades.",
+    "data": "Março e Setembro"
+  },
+  {
+    "cidade": "Paris",
+    "categoria": "dica",
+    "nome": "Transporte",
+    "descricao": "Compre um passe de metrô (Navigo) para se locomover de forma econômica pela cidade."
+  },
+  {
+    "cidade": "Paris",
+    "categoria": "dica",
+    "nome": "Segurança",
+    "descricao": "Atenção a carteiristas em locais turísticos e transporte público."
+  }
+]

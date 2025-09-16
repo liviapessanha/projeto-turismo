@@ -1,0 +1,68 @@
+[
+  {
+    "cidade": "Rio de Janeiro",
+    "categoria": "ponto_turistico",
+    "nome": "Cristo Redentor",
+    "descricao": "Estátua icônica localizada no Morro do Corcovado, com vista panorâmica da cidade.",
+    "horario": "08:00 - 19:00",
+    "preco": "R$ 50"
+  },
+  {
+    "cidade": "Rio de Janeiro",
+    "categoria": "ponto_turistico",
+    "nome": "Pão de Açúcar",
+    "descricao": "Conjunto de morros ligados por bondinho com vistas incríveis da Baía de Guanabara.",
+    "horario": "08:00 - 21:00",
+    "preco": "R$ 80"
+  },
+  {
+    "cidade": "Rio de Janeiro",
+    "categoria": "ponto_turistico",
+    "nome": "Praia de Copacabana",
+    "descricao": "Praia famosa mundialmente, ideal para banho de mar, caminhada e eventos culturais.",
+    "horario": "Livre",
+    "preco": "Gratuito"
+  },
+  {
+    "cidade": "Rio de Janeiro",
+    "categoria": "restaurante",
+    "nome": "Aprazível",
+    "descricao": "Restaurante de comida brasileira contemporânea com vista para o bairro de Santa Teresa.",
+    "horario": "12:00 - 23:00",
+    "preco_medio": "R$ 120 por pessoa"
+  },
+  {
+    "cidade": "Rio de Janeiro",
+    "categoria": "restaurante",
+    "nome": "Confeitaria Colombo",
+    "descricao": "Confeitaria histórica fundada em 1894, famosa pelos doces e pelo café da manhã colonial.",
+    "horario": "09:00 - 20:00",
+    "preco_medio": "R$ 60 por pessoa"
+  },
+  {
+    "cidade": "Rio de Janeiro",
+    "categoria": "evento",
+    "nome": "Carnaval do Rio",
+    "descricao": "Festa popular com desfiles de escolas de samba no Sambódromo e blocos de rua.",
+    "data": "Fevereiro"
+  },
+  {
+    "cidade": "Rio de Janeiro",
+    "categoria": "evento",
+    "nome": "Réveillon em Copacabana",
+    "descricao": "Uma das maiores festas de Ano Novo do mundo, com queima de fogos e shows na praia.",
+    "data": "31 de Dezembro"
+  },
+  {
+    "cidade": "Rio de Janeiro",
+    "categoria": "dica",
+    "nome": "Segurança",
+    "descricao": "Evite ostentar objetos de valor em áreas turísticas e use transporte oficial."
+  },
+  {
+    "cidade": "Rio de Janeiro",
+    "categoria": "dica",
+    "nome": "Transporte",
+    "descricao": "Use o metrô para se deslocar rapidamente entre zonas turísticas, evitando engarrafamentos."
+  }
+]

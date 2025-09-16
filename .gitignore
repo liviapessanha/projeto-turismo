@@ -1,0 +1,59 @@
+# Byte-compiled / otimizado / arquivos DLL
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pastas/arquivos de build / distribuição
+build/
+dist/
+*.egg-info/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+wheels/
+
+# Arquivos de log, cobertura de testes etc.
+*.log
+*.coverage
+.coverage.*
+htmlcov/
+.cache/
+pytest_cache/
+nosetests.xml
+coverage.xml
+
+# Dados gerados
+*.sqlite3
+*.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs / editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ambientes virtuais
+env/
+venv/
+ENV/
+.env/
+.venv/
+
+# Arquivos de variáveis de ambiente
+.env
+
+# Secrets / chaves
+*.key
+*.pem
+
+# Outras caches / resultados transitórios
+*.tmp
